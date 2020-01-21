@@ -24,7 +24,7 @@ module "EC2-us-east-1" {
   }
 }
 
-# EC2-1
+# EC2-2
 module "EC2-us-west-1" {
   source = "./modules/ec2"
   providers = {
