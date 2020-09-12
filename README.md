@@ -1,5 +1,6 @@
-# terraform-multi-region
-This terraform mudule was created to test the usage of the workaround to create the same aws resource in may aws regions.  
+# Terraform Multi-Region Deployment using Modules
+
+This terraform mudule was created to test the usage of the workaround to create the same resource in many regions.  
 
 The SQS services was used because it is the easiest to create.  
 Later the EC2 service was used as an second test.  
