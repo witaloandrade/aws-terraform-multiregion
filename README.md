@@ -1,3 +1,5 @@
+[![git_capa](./img/git_capa.jpg)](https://www.youtube.com/channel/UCKNbFi55znAEztGwHzrVfCw)
+
 # Terraform Multi-Region Deployment using Modules
 
 This terraform mudule was created to test the usage of the workaround to create the same resource in many regions.  
